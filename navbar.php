@@ -3,7 +3,7 @@
     <script src="https://kit.fontawesome.com/c12c059ff2.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background: rgba(0, 0, 0, 0.2);">
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background: rgba(0, 0, 225, 0.5);">
         <div class="container">
         <a class="navbar-brand" href="#">PT. Sinar Ahza Samudra</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
