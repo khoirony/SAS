@@ -34,30 +34,30 @@
       <br/><br/><br/><br/>
       <div class="row">
         <div class="col-md">
-          <img src="image/COMPRO SAS_page6_image19.jpg" class="w-100 rounded-top" alt=""> <br>
-          <p class="btn-primary btn-lg rounded-0 text-sm">Unloading Marble Stone PT. OMYA Indonesia</p>
+          <img src="image/COMPRO SAS_page6_image19.jpg" class="w-100 h-70 rounded-top" alt=""> <br>
+          <p class="btn-primary btn-lg rounded-bottom text-sm">Unloading Marble Stone PT. OMYA Indonesia</p>
         </div>
         <div class="col-md">
-          <img src="image/COMPRO SAS_page6_image17.jpg" class="w-100 rounded-lg" alt=""> <br>
-          <p class="btn-primary btn-lg rounded-0">Unloading Clinker PT. Cemindo Gemilang</p>
+          <img src="image/COMPRO SAS_page6_image17.jpg" class="w-100 h-70 rounded-top" alt=""> <br>
+          <p class="btn-primary btn-lg rounded-bottom">Unloading Clinker PT. Cemindo Gemilang</p>
         </div>
         <div class="col-md">
-          <img src="image/COMPRO SAS_page6_image15.png" class="w-100 rounded-lg" alt=""> <br>
-          <p class="btn-primary btn-lg rounded-0">Unloading Batubara PT. Tjiwi Kimia</p>
+          <img src="image/COMPRO SAS_page6_image15.png" class="w-100 h-70 rounded-top" alt=""> <br>
+          <p class="btn-primary btn-lg rounded-bottom">Unloading Batubara PT. Tjiwi Kimia</p>
         </div>
       </div>
       <div class="row">
         <div class="col-md">
-          <img src="image/COMPRO SAS_page6_image21.jpg" class="w-100 rounded-lg" alt=""> <br>
-          <p class="btn-primary btn-lg rounded-0">Loading Limestone Fine PT. Harang Bumi E</p>
+          <img src="image/COMPRO SAS_page6_image21.jpg" class="w-100 h-70 rounded-top" alt=""> <br>
+          <p class="btn-primary btn-lg rounded-bottom">Loading Limestone Fine PT. Harang Bumi E</p>
         </div>
         <div class="col-md">
-          <img src="image/COMPRO SAS_page6_image23.jpg" class="w-100 rounded-lg" alt=""> <br>
-          <p class="btn-primary btn-lg rounded-0">Loading Pupuk Organik CV. Alam Hijau</p>
+          <img src="image/COMPRO SAS_page6_image23.jpg" class="w-100 h-70 rounded-top" alt=""> <br>
+          <p class="btn-primary btn-lg rounded-bottom">Loading Pupuk Organik CV. Alam Hijau</p>
         </div>
         <div class="col-md">
-          <img src="image/COMPRO_SAS_page6_image29.png" class="w-100 rounded-lg" alt=""> <br>
-          <p class="btn-primary btn-lg rounded-0">Unloading Jagung PT. ESA Sarwaguna A</p>
+          <img src="image/COMPRO_SAS_page6_image29.png" class="w-100 h-70 rounded-top" alt=""> <br>
+          <p class="btn-primary btn-lg rounded-bottom">Unloading Jagung PT. ESA Sarwaguna A</p>
         </div>
       </div>
     </div>
@@ -115,6 +115,35 @@
     </main>
     <!-- akhir services -->
 
+    <br/><br/>
+    <!-- tentang -->
+    <section class="about" id="about"> 
+    <div class="mt-1 mb-1 pb-2">
+    <div class="container">
+      <h1 class="text-center">KERJA SAMA</h1>
+      <hr>
+      <p class="text-center"> PT. SINAR AHZA SAMUDRA sudah bekerja sama dengan beberapa PT ternama didaerah jawa timur dan diantaranya adalah</p>
+      <br/><br/>
+      <div class="row">
+        <div class="col-md">
+          <img src="image/COMPRO SAS_page6_image19.jpg" class="w-100 rounded-top" alt=""> <br>
+          <p class="btn-primary rounded-bottom text-center pb-1 pt-1">PT. YANI PUTRA EKSPRESS <br>Dari tahun 2017</p>
+        </div>
+        <div class="col-md">
+          <img src="image/COMPRO SAS_page6_image17.jpg" class="w-100 rounded-top" alt=""> <br>
+          <p class="btn-primary rounded-bottom text-center pb-1 pt-1">PT. PRIYANTO JAYA <br>Dari tahun 2017</p>
+        </div>
+        <div class="col-md">
+          <img src="image/COMPRO SAS_page6_image15.png" class="w-100 rounded-top" alt=""> <br>
+          <p class="btn-primary rounded-bottom text-center pb-1 pt-1">PT. NUSATRANS ANUGERAH MAKMUR <br>Dari tahun 2016</p>
+        </div>
+      </div>
+    </div>
+    </div>
+    </section>
+
+
+  <br><br><br><br>
   <!-- Footer -->
   <footer>
   <?php include('footer.php'); ?>
