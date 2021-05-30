@@ -75,6 +75,9 @@
       <br/><br/><br/><br/>
     </div>
 
+    <footer>
+    <?php include('footer.php'); ?>
+    </footer>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
